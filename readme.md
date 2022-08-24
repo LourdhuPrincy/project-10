@@ -10,3 +10,5 @@
 - making the webpages responsive.
 
 Time taken to finish this home page is 1 day.
+
+[netlify link](https://live-project-interior-homepage.netlify.app/)
